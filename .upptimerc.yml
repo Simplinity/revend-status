@@ -1,0 +1,47 @@
+# RM-033 public status configuration.
+# Keep public checks sanitized: never monitor admin-only URLs, raw provider
+# payload endpoints, or endpoints that expose tenant names, tickets, secrets,
+# billing identifiers, or webhook bodies.
+
+owner: Simplinity
+repo: revend-status
+user-agent: Simplinity
+
+sites:
+  - name: ReVend app
+    url: https://www.revend.co/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+  - name: ReVend health API
+    url: https://www.revend.co/api/health
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+status-website:
+  name: ReVend Status
+  baseUrl: /revend-status
+  introTitle: ReVend platform status
+  introMessage: Public, sanitized availability signals for ReVend. Detailed incident diagnosis remains inside ReVend for platform support.
+  theme: light
+  navbar:
+    - title: Status
+      href: /
+    - title: ReVend
+      href: https://www.revend.co
+  robotsText: "User-agent: *\nDisallow:"
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "0 23 * * *"
+  graphs: "0 0 * * *"
+  summary: "0 0 * * *"
+  staticSite: "0 1 * * *"
+  updates: "0 3 * * *"
+
+skipDeleteIssues: true
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
