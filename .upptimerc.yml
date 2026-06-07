@@ -20,6 +20,12 @@ sites:
       - 200
     maxResponseTime: 5000
 
+  - name: ReVend public component status
+    url: https://www.revend.co/api/status/public
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
 status-website:
   name: ReVend Status
   baseUrl: /revend-status
