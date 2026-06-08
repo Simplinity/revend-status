@@ -22,25 +22,27 @@
     "url": "https://www.revend.co/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/www.revend.co.ico",
     "slug": "re-vend-health-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1378,
     "timeDay": 1759,
     "timeWeek": 1378,
     "timeMonth": 1378,
     "timeYear": 1378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 9
+    }
   },
   {
     "name": "ReVend public component status",
     "url": "https://www.revend.co/api/status/public",
     "icon": "https://icons.duckduckgo.com/ip3/www.revend.co.ico",
     "slug": "re-vend-public-component-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 2574,
     "timeMonth": 2574,
     "timeYear": 2574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 0
+    }
   }
 ]
