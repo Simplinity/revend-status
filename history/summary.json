@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1245,
-    "timeDay": 2544,
-    "timeWeek": 1405,
-    "timeMonth": 1229,
-    "timeYear": 1245,
+    "time": 1235,
+    "timeDay": 1589,
+    "timeWeek": 1434,
+    "timeMonth": 1211,
+    "timeYear": 1235,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 1466,
-    "timeDay": 1727,
-    "timeWeek": 1676,
-    "timeMonth": 1621,
-    "timeYear": 1466,
+    "time": 1474,
+    "timeDay": 1870,
+    "timeWeek": 1714,
+    "timeMonth": 1636,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-06-08": 345
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.revend.co.ico",
     "slug": "re-vend-public-component-status",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 2401,
-    "timeDay": 2798,
-    "timeWeek": 2908,
-    "timeMonth": 2896,
-    "timeYear": 2401,
+    "uptimeYear": "99.74%",
+    "time": 2404,
+    "timeDay": 2701,
+    "timeWeek": 2936,
+    "timeMonth": 2884,
+    "timeYear": 2404,
     "dailyMinutesDown": {
       "2026-06-08": 233
     }
