@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1246,
-    "timeDay": 1635,
-    "timeWeek": 1341,
-    "timeMonth": 1263,
-    "timeYear": 1246,
+    "time": 1254,
+    "timeDay": 1829,
+    "timeWeek": 1492,
+    "timeMonth": 1267,
+    "timeYear": 1254,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.revend.co.ico",
     "slug": "re-vend-health-api",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
-    "time": 1484,
-    "timeDay": 1654,
-    "timeWeek": 1574,
-    "timeMonth": 1628,
-    "timeYear": 1484,
+    "uptimeYear": "99.66%",
+    "time": 1487,
+    "timeDay": 1733,
+    "timeWeek": 1582,
+    "timeMonth": 1635,
+    "timeYear": 1487,
     "dailyMinutesDown": {
       "2026-06-08": 345
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 2452,
-    "timeDay": 3212,
-    "timeWeek": 2891,
-    "timeMonth": 2890,
-    "timeYear": 2452,
+    "time": 2453,
+    "timeDay": 2495,
+    "timeWeek": 2826,
+    "timeMonth": 2880,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2026-06-08": 233
     }
