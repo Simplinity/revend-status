@@ -1,7 +1,7 @@
 url: https://www.revend.co/api/status/public
-status: degraded
-code: 503
-responseTime: 12369
-lastUpdated: 2026-09-29T14:16:06.895Z
+status: up
+code: 200
+responseTime: 3269
+lastUpdated: 2026-09-29T19:27:58.317Z
 startTime: 2026-06-07T00:51:54.530Z
 generator: Upptime <https://github.com/upptime/upptime>
