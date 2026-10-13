@@ -42,24 +42,24 @@
     "url": "https://www.revend.co/api/status/public",
     "icon": "https://icons.duckduckgo.com/ip3/www.revend.co.ico",
     "slug": "re-vend-public-component-status",
-    "status": "degraded",
-    "uptime": "99.40%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "99.40%",
-    "time": 2862,
-    "timeDay": 4587,
-    "timeWeek": 3287,
-    "timeMonth": 3569,
-    "timeYear": 2862,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "68.81%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "99.21%",
+    "time": 2867,
+    "timeDay": 4289,
+    "timeWeek": 3332,
+    "timeMonth": 3572,
+    "timeYear": 2867,
     "dailyMinutesDown": {
       "2026-06-08": 233,
       "2026-08-25": 45,
       "2026-09-17": 191,
       "2026-09-29": 312,
       "2026-10-02": 239,
-      "2026-10-13": 86
+      "2026-10-13": 449
     }
   }
 ]
